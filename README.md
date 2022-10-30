@@ -18,16 +18,15 @@
 </h1>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
+
+---
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amanzer&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
 
 
----
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amanzer&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanzer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **amanzer/amanzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
